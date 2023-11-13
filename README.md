@@ -10,4 +10,4 @@
 - Модули ввода/вывода
 - Блоки управления промыленным и бытовым оборудованием
 
-Подробнее на [GitHub Wiki](https://github.com/ufrs12/OLIA/wiki)
+Подробнее на [GitHub Wiki](https://github.com/ufrs12/OLIA-RU/wiki)
