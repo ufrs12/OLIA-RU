@@ -1,11 +1,11 @@
 # Orange Pi 3LTS
 
-##SSH
+## SSH
 
 ssh alexey@192.168.137.3   
 Пароль: alexey  
 
-##OpenPLC
+## OpenPLC
 
 http://192.168.137.3:8080/  
 Логин:  openplc  
