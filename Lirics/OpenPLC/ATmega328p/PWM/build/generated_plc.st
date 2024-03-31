@@ -1,0 +1,17 @@
+PROGRAM PWM
+  VAR
+    LocalVar0 : DINT;
+    LocalVar1 : DINT;
+  END_VAR
+
+  LocalVar0 := LocalVar1;
+END_PROGRAM
+
+
+CONFIGURATION Config0
+
+  RESOURCE Res0 ON PLC
+    TASK task0(INTERVAL := T#20ms,PRIORITY := 0);
+    PROGRAM instance0 WITH task0 : PWM;
+  END_RESOURCE
+END_CONFIGURATION
