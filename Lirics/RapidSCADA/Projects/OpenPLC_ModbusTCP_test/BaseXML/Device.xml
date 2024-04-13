@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDevice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Device>
+    <DeviceNum>1</DeviceNum>
+    <Name>OpenPCL_ModbusTCP_test</Name>
+    <Code />
+    <DevTypeID>214</DevTypeID>
+    <NumAddress xsi:nil="true" />
+    <StrAddress>localhos</StrAddress>
+    <CommLineNum>1</CommLineNum>
+    <Descr />
+  </Device>
+</ArrayOfDevice>

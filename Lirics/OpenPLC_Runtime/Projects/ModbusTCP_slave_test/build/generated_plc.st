@@ -1,0 +1,28 @@
+PROGRAM OLIA_examle
+  VAR
+    TestVar AT %QW0 : INT := 0;
+  END_VAR
+  VAR
+    CTU0 : CTU;
+    TON0 : TON;
+    TP0 : TP;
+    _TMP_XOR20_OUT : BOOL;
+    R_TRIG1 : R_TRIG;
+  END_VAR
+
+  _TMP_XOR20_OUT := XOR(TON0.Q, True);
+  TP0(IN := _TMP_XOR20_OUT, PT := T#1000ms);
+  TON0(IN := TP0.Q, PT := T#500ms);
+  R_TRIG1(CLK := TON0.Q);
+  CTU0(CU := R_TRIG1.Q, R := CTU0.Q, PV := 100);
+  TestVar := CTU0.CV;
+END_PROGRAM
+
+
+CONFIGURATION Config0
+
+  RESOURCE Res0 ON PLC
+    TASK task0(INTERVAL := T#20ms,PRIORITY := 0);
+    PROGRAM instance0 WITH task0 : OLIA_examle;
+  END_RESOURCE
+END_CONFIGURATION

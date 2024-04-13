@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCnl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cnl>
+    <CnlNum>1</CnlNum>
+    <Active>true</Active>
+    <DataTypeID xsi:nil="true" />
+    <DataLen xsi:nil="true" />
+    <CnlTypeID>1</CnlTypeID>
+    <ObjNum xsi:nil="true" />
+    <DeviceNum>1</DeviceNum>
+    <TagNum>1</TagNum>
+    <FormulaEnabled>false</FormulaEnabled>
+    <FormatID xsi:nil="true" />
+    <OutFormatID xsi:nil="true" />
+    <QuantityID xsi:nil="true" />
+    <UnitID xsi:nil="true" />
+    <LimID xsi:nil="true" />
+    <ArchiveMask xsi:nil="true" />
+    <EventMask xsi:nil="true" />
+  </Cnl>
+</ArrayOfCnl>

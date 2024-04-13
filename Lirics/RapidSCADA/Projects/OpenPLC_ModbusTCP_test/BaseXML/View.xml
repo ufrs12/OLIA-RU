@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfView xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <View>
+    <ViewID>1</ViewID>
+    <Path>Test.tbl</Path>
+    <ViewTypeID xsi:nil="true" />
+    <Ord xsi:nil="true" />
+    <Hidden>false</Hidden>
+    <ObjNum xsi:nil="true" />
+  </View>
+</ArrayOfView>

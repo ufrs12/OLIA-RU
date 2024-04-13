@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DeviceTemplate>
+  <Options>
+    <ZeroAddr>false</ZeroAddr>
+    <DecAddr>true</DecAddr>
+    <DefByteOrder2 />
+    <DefByteOrder4 />
+    <DefByteOrder8 />
+  </Options>
+  <ElemGroups>
+    <ElemGroup active="true" dataBlock="HoldingRegisters" address="0" name="TeasVar">
+      <Elem type="ushort" readOnly="false" isBitMask="false" tagCode="" name="" />
+    </ElemGroup>
+  </ElemGroups>
+  <Cmds />
+</DeviceTemplate>
