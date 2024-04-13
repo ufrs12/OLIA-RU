@@ -12,3 +12,6 @@ http://192.168.137.3:8080/
 Пароль: openplc  
 
 # Arduino Uno
+## FLProg
+
+DS18B20: 28 24 15 5C 5 0 0 25
