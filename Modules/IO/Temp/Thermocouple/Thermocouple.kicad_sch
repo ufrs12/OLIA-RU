@@ -1155,100 +1155,6 @@
 		(uuid "e5f13561-baa2-4fb4-bfa7-fb66889c3d01")
 	)
 	(symbol
-		(lib_id "Amplifier_Operational:LM358_DFN")
-		(at 91.44 58.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "06af1e8a-58d7-4e2e-9a7f-80d5807ce93d")
-		(property "Reference" "U2"
-			(at 91.44 53.594 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LM358"
-			(at 90.17 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm"
-			(at 91.44 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "www.st.com/resource/en/datasheet/lm358.pdf"
-			(at 91.44 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Low-Power, Dual Operational Amplifiers, DFN-8"
-			(at 91.44 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f39c4205-473d-4c0b-bd3c-0a1dff7a7300")
-		)
-		(pin "4"
-			(uuid "701febeb-e011-4c19-aedb-52be2eed53d1")
-		)
-		(pin "7"
-			(uuid "a6749e55-0434-4768-99fe-854bcaf90d5e")
-		)
-		(pin "3"
-			(uuid "bd9c2c32-3f19-431d-8d9d-35bafd1d38ca")
-		)
-		(pin "8"
-			(uuid "9c7bf42a-e00c-4c78-96d5-b4ae6b6af7d8")
-		)
-		(pin "9"
-			(uuid "3b02f230-a330-45e5-b3d8-edadbbc67427")
-		)
-		(pin "6"
-			(uuid "d26c88ec-8259-4c29-8efc-e55c3d0a15d1")
-		)
-		(pin "5"
-			(uuid "291d1840-7806-4791-a0ec-d51bbb6d947e")
-		)
-		(pin "2"
-			(uuid "22cef71d-80d9-4e29-94ae-de8bdd0d4016")
-		)
-		(instances
-			(project ""
-				(path "/81662ecb-5aca-469f-be6d-f33d104b4ae6/5e246d5c-ed2b-4101-8a2c-2a720bf6beed"
-					(reference "U2")
-					(unit 1)
-				)
-			)
-			(project ""
-				(path "/8660dd8a-752b-48ad-92e5-93e7e5c1f0f1"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 83.82 76.2 0)
 		(unit 1)
@@ -1275,7 +1181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 82.042 76.2 90)
 			(effects
 				(font
@@ -1284,7 +1190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 83.82 76.2 0)
 			(effects
 				(font
@@ -1350,7 +1256,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 112.7252 66.04 0)
 			(effects
 				(font
@@ -1497,7 +1403,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 105.41 60.198 90)
 			(effects
 				(font
@@ -1506,7 +1412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 105.41 58.42 0)
 			(effects
 				(font
@@ -1642,7 +1548,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 90.17 70.358 90)
 			(effects
 				(font
@@ -1651,7 +1557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 90.17 68.58 0)
 			(effects
 				(font
@@ -1789,7 +1695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 80.01 57.658 90)
 			(effects
 				(font
@@ -1864,7 +1770,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 97.79 70.358 90)
 			(effects
 				(font
@@ -1873,7 +1779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 97.79 68.58 0)
 			(effects
 				(font
@@ -1981,6 +1887,94 @@
 				(path "/8660dd8a-752b-48ad-92e5-93e7e5c1f0f1"
 					(reference "TC1")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:LM358_DFN")
+		(at 91.44 58.42 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e4c5a020-80d8-474c-a5c7-c23a7f9c5931")
+		(property "Reference" "U1"
+			(at 91.948 54.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM358"
+			(at 90.17 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm"
+			(at 91.44 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "www.st.com/resource/en/datasheet/lm358.pdf"
+			(at 91.44 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Low-Power, Dual Operational Amplifiers, DFN-8"
+			(at 91.44 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "68f4ac4d-591b-48ff-bb7c-e9d2a6d73939")
+		)
+		(pin "5"
+			(uuid "9965272b-4300-462c-b28c-89f30884535c")
+		)
+		(pin "1"
+			(uuid "a9c03e1a-0fa0-4cc2-98b1-401791be17de")
+		)
+		(pin "7"
+			(uuid "4e4fc4ca-0ffb-48d3-aae9-85704ff4506f")
+		)
+		(pin "4"
+			(uuid "824ad13e-2ec8-49bf-b8bd-7851ebd6b9b7")
+		)
+		(pin "8"
+			(uuid "6e3ae4c1-4196-4bc2-b67b-1a20b7973035")
+		)
+		(pin "2"
+			(uuid "29f177dd-c81b-449f-9c2d-735bab3b31aa")
+		)
+		(pin "9"
+			(uuid "9efaffbb-e552-4040-b0d9-71974ad50879")
+		)
+		(pin "6"
+			(uuid "074c56dd-9288-4b95-b60b-bfab73ad1a68")
+		)
+		(instances
+			(project ""
+				(path "/81662ecb-5aca-469f-be6d-f33d104b4ae6/5e246d5c-ed2b-4101-8a2c-2a720bf6beed"
+					(reference "U1")
+					(unit 2)
 				)
 			)
 		)
