@@ -1,4 +1,4 @@
-24640794808454244
+24825201593200298
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99350,3 +99350,745 @@ Varistor VF
 0
 2
 2
+w_conn_mc
+mc_1,5-2-g-3,81
+PCB socket 8A 160V 2 pins 90°, Phoenix MC 1,5/2-G-3,81 1803277
+
+0
+2
+2
+w_conn_mc
+mc_1,5-2-gf-3,81
+PCB socket 8A 160V 2 pins 90°, screw fix, Phoenix MC 1,5/2-GF-3,81 1827868
+
+0
+2
+2
+w_conn_mc
+mc_1,5-3-g-3,81
+PCB socket 8A 160V 3 pins 90°, Phoenix MC 1,5/3-G-3,81 1803280
+
+0
+3
+3
+w_conn_mc
+mc_1,5-3-gf-3,81
+PCB socket 8A 160V 3 pins 90°, screw fix, Phoenix MC 1,5/3-GF-3,81 1827871
+
+0
+3
+3
+w_conn_mc
+mc_1,5-4-g-3,81
+PCB socket 8A 160V 4 pins 90°, Phoenix MC 1,5/4-G-3,81 1803293
+
+0
+4
+4
+w_conn_mc
+mc_1,5-4-gf-3,81
+PCB socket 8A 160V 4 pins 90°, screw fix, Phoenix MC 1,5/4-GF-3,81 1827884
+
+0
+4
+4
+w_conn_mc
+mc_1,5-5-g-3,81
+PCB socket 8A 160V 5 pins 90°, Phoenix MC 1,5/5-G-3,81 1803303
+
+0
+5
+5
+w_conn_mc
+mc_1,5-5-gf-3,81
+PCB socket 8A 160V 5 pins 90°, screw fix, Phoenix MC 1,5/5-GF-3,81 1827897
+
+0
+5
+5
+w_conn_mc
+mc_1,5-6-g-3,81
+PCB socket 8A 160V 6 pins 90°, Phoenix MC 1,5/6-G-3,81 1803316
+
+0
+6
+6
+w_conn_mc
+mc_1,5-6-gf-3,81
+PCB socket 8A 160V 6 pins 90°, screw fix, Phoenix MC 1,5/6-GF-3,81 1827907
+
+0
+6
+6
+w_conn_mc
+mc_1,5-7-g-3,81
+PCB socket 8A 160V 7 pins 90°, Phoenix MC 1,5/7-G-3,81 1803329
+
+0
+7
+7
+w_conn_mc
+mc_1,5-7-gf-3,81
+PCB socket 8A 160V 7 pins 90°, screw fix, Phoenix MC 1,5/7-GF-3,81 1827910
+
+0
+7
+7
+w_conn_mc
+mc_1,5-8-g-3,81
+PCB socket 8A 160V 8 pins 90°, Phoenix MC 1,5/8-G-3,81 1803332
+
+0
+8
+8
+w_conn_mc
+mc_1,5-8-gf-3,81
+PCB socket 8A 160V 8 pins 90°, screw fix, Phoenix MC 1,5/8-GF-3,81 1827923
+
+0
+8
+8
+w_conn_mc
+mc_1,5-9-g-3,81
+PCB socket 8A 160V 9 pins 90°, Phoenix MC 1,5/9-G-3,81 1803345
+
+0
+9
+9
+w_conn_mc
+mc_1,5-9-gf-3,81
+PCB socket 8A 160V 9 pins 90°, screw fix, Phoenix MC 1,5/9-GF-3,81 1827936
+
+0
+9
+9
+w_conn_mc
+mc_1,5-10-g-3,81
+PCB socket 8A 160V 10 pins 90°, Phoenix MC 1,5/10-G-3,81 1803358
+
+0
+10
+10
+w_conn_mc
+mc_1,5-10-gf-3,81
+PCB socket 8A 160V 10 pins 90°, screw fix, Phoenix MC 1,5/10-GF-3,81 1827949
+
+0
+10
+10
+w_conn_mc
+mc_1,5-11-g-3,81
+PCB socket 8A 160V 11 pins 90°, Phoenix MC 1,5/11-G-3,81 1803361
+
+0
+11
+11
+w_conn_mc
+mc_1,5-11-gf-3,81
+PCB socket 8A 160V 11 pins 90°, screw fix, Phoenix MC 1,5/11-GF-3,81 1827952
+
+0
+11
+11
+w_conn_mc
+mc_1,5-12-g-3,81
+PCB socket 8A 160V 12 pins 90°, Phoenix MC 1,5/12-G-3,81 1803374
+
+0
+12
+12
+w_conn_mc
+mc_1,5-12-gf-3,81
+PCB socket 8A 160V 12 pins 90°, screw fix, Phoenix MC 1,5/12-GF-3,81 1827965
+
+0
+12
+12
+w_conn_mc
+mc_1,5-13-g-3,81
+PCB socket 8A 160V 13 pins 90°, Phoenix MC 1,5/13-G-3,81 1803387
+
+0
+13
+13
+w_conn_mc
+mc_1,5-13-gf-3,81
+PCB socket 8A 160V 13 pins 90°, screw fix, Phoenix MC 1,5/13-GF-3,81 1827978
+
+0
+13
+13
+w_conn_mc
+mc_1,5-14-g-3,81
+PCB socket 8A 160V 14 pins 90°, Phoenix MC 1,5/14-G-3,81 1803390
+
+0
+14
+14
+w_conn_mc
+mc_1,5-14-gf-3,81
+PCB socket 8A 160V 14 pins 90°, screw fix, Phoenix MC 1,5/14-GF-3,81 1827981
+
+0
+14
+14
+w_conn_mc
+mc_1,5-15-g-3,81
+PCB socket 8A 160V 15 pins 90°, Phoenix MC 1,5/15-G-3,81 1803400
+
+0
+15
+15
+w_conn_mc
+mc_1,5-15-gf-3,81
+PCB socket 8A 160V 15 pins 90°, screw fix, Phoenix MC 1,5/15-GF-3,81 1827994
+
+0
+15
+15
+w_conn_mc
+mc_1,5-16-g-3,81
+PCB socket 8A 160V 16 pins 90°, Phoenix MC 1,5/16-G-3,81 1803413
+
+0
+16
+16
+w_conn_mc
+mc_1,5-16-gf-3,81
+PCB socket 8A 160V 16 pins 90°, screw fix, Phoenix MC 1,5/16-GF-3,81 1828003
+
+0
+16
+16
+w_conn_mc
+mc_1,5-17-g-3,81
+PCB socket 8A 160V 17 pins 90°, Phoenix MC 1,5/17-G-3,81 1841307
+
+0
+17
+17
+w_conn_mc
+mc_1,5-17-gf-3,81
+PCB socket 8A 160V 17 pins 90°, screw fix, Phoenix MC 1,5/17-GF-3,81 1848410
+
+0
+17
+17
+w_conn_mc
+mc_1,5-18-g-3,81
+PCB socket 8A 160V 18 pins 90°, Phoenix MC 1,5/18-G-3,81 1841297
+
+0
+18
+18
+w_conn_mc
+mc_1,5-18-gf-3,81
+PCB socket 8A 160V 18 pins 90°, screw fix, Phoenix MC 1,5/18-GF-3,81 1848423
+
+0
+18
+18
+w_conn_mc
+mc_1,5-19-g-3,81
+PCB socket 8A 160V 19 pins 90°, Phoenix MC 1,5/19-G-3,81 1841284
+
+0
+19
+19
+w_conn_mc
+mc_1,5-19-gf-3,81
+PCB socket 8A 160V 19 pins 90°, screw fix, Phoenix MC 1,5/19-GF-3,81 1848436
+
+0
+19
+19
+w_conn_mc
+mc_1,5-20-g-3,81
+PCB socket 8A 160V 20 pins 90°, Phoenix MC 1,5/20-G-3,81 1841271
+
+0
+20
+20
+w_conn_mc
+mc_1,5-20-gf-3,81
+PCB socket 8A 160V 20 pins 90°, screw fix, Phoenix MC 1,5/20-GF-3,81 1848449
+
+0
+20
+20
+w_conn_mc
+mcv_1,5-2-g-3,81
+PCB socket 8A 160V 2 pins, Phoenix MCV 1,5/2-G-3,81 1803426
+
+0
+2
+2
+w_conn_mc
+mcv_1,5-2-gf-3,81
+PCB socket 8A 160V 2 pins, screw fix, Phoenix MCV 1,5/2-GF-3,81 1830596
+
+0
+2
+2
+w_conn_mc
+mcv_1,5-3-g-3,81
+PCB socket 8A 160V 3 pins, Phoenix MCV 1,5/3-G-3,81 1803439
+
+0
+3
+3
+w_conn_mc
+mcv_1,5-3-gf-3,81
+PCB socket 8A 160V 3 pins, screw fix, Phoenix MCV 1,5/3-GF-3,81 1830606
+
+0
+3
+3
+w_conn_mc
+mcv_1,5-4-g-3,81
+PCB socket 8A 160V 4 pins, Phoenix MCV 1,5/4-G-3,81 1803442
+
+0
+4
+4
+w_conn_mc
+mcv_1,5-4-gf-3,81
+PCB socket 8A 160V 4 pins, screw fix, Phoenix MCV 1,5/4-GF-3,81 1830619
+
+0
+4
+4
+w_conn_mc
+mcv_1,5-5-g-3,81
+PCB socket 8A 160V 5 pins, Phoenix MCV 1,5/5-G-3,81 1803455
+
+0
+5
+5
+w_conn_mc
+mcv_1,5-5-gf-3,81
+PCB socket 8A 160V 5 pins, screw fix, Phoenix MCV 1,5/5-GF-3,81 1830622
+
+0
+5
+5
+w_conn_mc
+mcv_1,5-6-g-3,81
+PCB socket 8A 160V 6 pins, Phoenix MCV 1,5/6-G-3,81 1803468
+
+0
+6
+6
+w_conn_mc
+mcv_1,5-6-gf-3,81
+PCB socket 8A 160V 6 pins, screw fix, Phoenix MCV 1,5/6-GF-3,81 1830635
+
+0
+6
+6
+w_conn_mc
+mcv_1,5-7-g-3,81
+PCB socket 8A 160V 7 pins, Phoenix MCV 1,5/7-G-3,81 1803471
+
+0
+7
+7
+w_conn_mc
+mcv_1,5-7-gf-3,81
+PCB socket 8A 160V 7 pins, screw fix, Phoenix MCV 1,5/7-GF-3,81 1830648
+
+0
+7
+7
+w_conn_mc
+mcv_1,5-8-g-3,81
+PCB socket 8A 160V 8 pins, Phoenix MCV 1,5/8-G-3,81 1803484
+
+0
+8
+8
+w_conn_mc
+mcv_1,5-8-gf-3,81
+PCB socket 8A 160V 8 pins, screw fix, Phoenix MCV 1,5/8-GF-3,81 1830651
+
+0
+8
+8
+w_conn_mc
+mcv_1,5-9-g-3,81
+PCB socket 8A 160V 9 pins, Phoenix MCV 1,5/9-G-3,81 1803497
+
+0
+9
+9
+w_conn_mc
+mcv_1,5-9-gf-3,81
+PCB socket 8A 160V 9 pins, screw fix, Phoenix MCV 1,5/9-GF-3,81 1830664
+
+0
+9
+9
+w_conn_mc
+mcv_1,5-10-g-3,81
+PCB socket 8A 160V 10 pins, Phoenix MCV 1,5/10-G-3,81 1803507
+
+0
+10
+10
+w_conn_mc
+mcv_1,5-10-gf-3,81
+PCB socket 8A 160V 10 pins, screw fix, Phoenix MCV 1,5/10-GF-3,81 1830677
+
+0
+10
+10
+w_conn_mc
+mcv_1,5-11-g-3,81
+PCB socket 8A 160V 11 pins, Phoenix MCV 1,5/11-G-3,81 1803510
+
+0
+11
+11
+w_conn_mc
+mcv_1,5-11-gf-3,81
+PCB socket 8A 160V 11 pins, screw fix, Phoenix MCV 1,5/11-GF-3,81 1830680
+
+0
+11
+11
+w_conn_mc
+mcv_1,5-12-g-3,81
+PCB socket 8A 160V 12 pins, Phoenix MCV 1,5/12-G-3,81 1803523
+
+0
+12
+12
+w_conn_mc
+mcv_1,5-12-gf-3,81
+PCB socket 8A 160V 12 pins, screw fix, Phoenix MCV 1,5/12-GF-3,81 1830693
+
+0
+12
+12
+w_conn_mc
+mcv_1,5-13-g-3,81
+PCB socket 8A 160V 13 pins, Phoenix MCV 1,5/13-G-3,81 1803536
+
+0
+13
+13
+w_conn_mc
+mcv_1,5-13-gf-3,81
+PCB socket 8A 160V 13 pins, screw fix, Phoenix MCV 1,5/13-GF-3,81 1830703
+
+0
+13
+13
+w_conn_mc
+mcv_1,5-14-g-3,81
+PCB socket 8A 160V 14 pins, Phoenix MCV 1,5/14-G-3,81 1803549
+
+0
+14
+14
+w_conn_mc
+mcv_1,5-14-gf-3,81
+PCB socket 8A 160V 14 pins, screw fix, Phoenix MCV 1,5/14-GF-3,81 1830716
+
+0
+14
+14
+w_conn_mc
+mcv_1,5-15-g-3,81
+PCB socket 8A 160V 15 pins, Phoenix MCV 1,5/15-G-3,81 1803552
+
+0
+15
+15
+w_conn_mc
+mcv_1,5-15-gf-3,81
+PCB socket 8A 160V 15 pins, screw fix, Phoenix MCV 1,5/15-GF-3,81 1830729
+
+0
+15
+15
+w_conn_mc
+mcv_1,5-16-g-3,81
+PCB socket 8A 160V 16 pins, Phoenix MCV 1,5/16-G-3,81 1803565
+
+0
+16
+16
+w_conn_mc
+mcv_1,5-16-gf-3,81
+PCB socket 8A 160V 16 pins, screw fix, Phoenix MCV 1,5/16-GF-3,81 1830732
+
+0
+16
+16
+w_conn_mc
+mcv_1,5-17-g-3,81
+PCB socket 8A 160V 17 pins, Phoenix MCV 1,5/17-G-3,81 1844896
+
+0
+17
+17
+w_conn_mc
+mcv_1,5-17-gf-3,81
+PCB socket 8A 160V 17 pins, screw fix, Phoenix MCV 1,5/17-GF-3,81 1844935
+
+0
+17
+17
+w_conn_mc
+mcv_1,5-18-g-3,81
+PCB socket 8A 160V 18 pins, Phoenix MCV 1,5/18-G-3,81 1844906
+
+0
+18
+18
+w_conn_mc
+mcv_1,5-18-gf-3,81
+PCB socket 8A 160V 18 pins, screw fix, Phoenix MCV 1,5/18-GF-3,81 1844948
+
+0
+18
+18
+w_conn_mc
+mcv_1,5-19-g-3,81
+PCB socket 8A 160V 19 pins, Phoenix MCV 1,5/19-G-3,81 1844919
+
+0
+19
+19
+w_conn_mc
+mcv_1,5-19-gf-3,81
+PCB socket 8A 160V 19 pins, screw fix, Phoenix MCV 1,5/19-GF-3,81 1844951
+
+0
+19
+19
+w_conn_mc
+mcv_1,5-20-g-3,81
+PCB socket 8A 160V 20 pins, Phoenix MCV 1,5/20-G-3,81 1844922
+
+0
+20
+20
+w_conn_mc
+mcv_1,5-20-gf-3,81
+PCB socket 8A 160V 20 pins, screw fix, Phoenix MCV 1,5/20-GF-3,81 1844964
+
+0
+20
+20
+w_conn_mc
+smc_1,5-2-g-3,81
+PCB socket 8A 160V 2 pins 45°, Phoenix SMC 1,5/2-G-3,81 1827279
+
+0
+2
+2
+w_conn_mc
+smc_1,5-2-gf-3,81
+PCB socket 8A 160V 2 pins 45°, screw fix, Phoenix SMC 1,5/2-GF-3,81 1827428
+
+0
+2
+2
+w_conn_mc
+smc_1,5-3-g-3,81
+PCB socket 8A 160V 3 pins 45°, Phoenix SMC 1,5/3-G-3,81 1827282
+
+0
+3
+3
+w_conn_mc
+smc_1,5-3-gf-3,81
+PCB socket 8A 160V 3 pins 45°, screw fix, Phoenix SMC 1,5/3-GF-3,81 1827431
+
+0
+3
+3
+w_conn_mc
+smc_1,5-4-g-3,81
+PCB socket 8A 160V 4 pins 45°, Phoenix SMC 1,5/4-G-3,81 1827295
+
+0
+4
+4
+w_conn_mc
+smc_1,5-4-gf-3,81
+PCB socket 8A 160V 4 pins 45°, screw fix, Phoenix SMC 1,5/4-GF-3,81 1827444
+
+0
+4
+4
+w_conn_mc
+smc_1,5-5-g-3,81
+PCB socket 8A 160V 5 pins 45°, Phoenix SMC 1,5/5-G-3,81 1827305
+
+0
+5
+5
+w_conn_mc
+smc_1,5-5-gf-3,81
+PCB socket 8A 160V 5 pins 45°, screw fix, Phoenix SMC 1,5/5-GF-3,81 1827457
+
+0
+5
+5
+w_conn_mc
+smc_1,5-6-g-3,81
+PCB socket 8A 160V 6 pins 45°, Phoenix SMC 1,5/6-G-3,81 1827318
+
+0
+6
+6
+w_conn_mc
+smc_1,5-6-gf-3,81
+PCB socket 8A 160V 6 pins 45°, screw fix, Phoenix SMC 1,5/6-GF-3,81 1827460
+
+0
+6
+6
+w_conn_mc
+smc_1,5-7-g-3,81
+PCB socket 8A 160V 7 pins 45°, Phoenix SMC 1,5/7-G-3,81 1827321
+
+0
+7
+7
+w_conn_mc
+smc_1,5-7-gf-3,81
+PCB socket 8A 160V 7 pins 45°, screw fix, Phoenix SMC 1,5/7-GF-3,81 1827473
+
+0
+7
+7
+w_conn_mc
+smc_1,5-8-g-3,81
+PCB socket 8A 160V 8 pins 45°, Phoenix SMC 1,5/8-G-3,81 1827334
+
+0
+8
+8
+w_conn_mc
+smc_1,5-8-gf-3,81
+PCB socket 8A 160V 8 pins 45°, screw fix, Phoenix SMC 1,5/8-GF-3,81 1827486
+
+0
+8
+8
+w_conn_mc
+smc_1,5-9-g-3,81
+PCB socket 8A 160V 9 pins 45°, Phoenix SMC 1,5/9-G-3,81 1827347
+
+0
+9
+9
+w_conn_mc
+smc_1,5-9-gf-3,81
+PCB socket 8A 160V 9 pins 45°, screw fix, Phoenix SMC 1,5/9-GF-3,81 1827499
+
+0
+9
+9
+w_conn_mc
+smc_1,5-10-g-3,81
+PCB socket 8A 160V 10 pins 45°, Phoenix SMC 1,5/10-G-3,81 1827350
+
+0
+10
+10
+w_conn_mc
+smc_1,5-10-gf-3,81
+PCB socket 8A 160V 10 pins 45°, screw fix, Phoenix SMC 1,5/10-GF-3,81 1827509
+
+0
+10
+10
+w_conn_mc
+smc_1,5-11-g-3,81
+PCB socket 8A 160V 11 pins 45°, Phoenix SMC 1,5/11-G-3,81 1827363
+
+0
+11
+11
+w_conn_mc
+smc_1,5-11-gf-3,81
+PCB socket 8A 160V 11 pins 45°, screw fix, Phoenix SMC 1,5/11-GF-3,81 1827512
+
+0
+11
+11
+w_conn_mc
+smc_1,5-12-g-3,81
+PCB socket 8A 160V 12 pins 45°, Phoenix SMC 1,5/12-G-3,81 1827376
+
+0
+12
+12
+w_conn_mc
+smc_1,5-12-gf-3,81
+PCB socket 8A 160V 12 pins 45°, screw fix, Phoenix SMC 1,5/12-GF-3,81 1827525
+
+0
+12
+12
+w_conn_mc
+smc_1,5-13-g-3,81
+PCB socket 8A 160V 13 pins 45°, Phoenix SMC 1,5/13-G-3,81 1827389
+
+0
+13
+13
+w_conn_mc
+smc_1,5-13-gf-3,81
+PCB socket 8A 160V 13 pins 45°, screw fix, Phoenix SMC 1,5/13-GF-3,81 1827538
+
+0
+13
+13
+w_conn_mc
+smc_1,5-14-g-3,81
+PCB socket 8A 160V 14 pins 45°, Phoenix SMC 1,5/14-G-3,81 1827392
+
+0
+14
+14
+w_conn_mc
+smc_1,5-14-gf-3,81
+PCB socket 8A 160V 14 pins 45°, screw fix, Phoenix SMC 1,5/14-GF-3,81 1827541
+
+0
+14
+14
+w_conn_mc
+smc_1,5-15-g-3,81
+PCB socket 8A 160V 15 pins 45°, Phoenix SMC 1,5/15-G-3,81 1827402
+
+0
+15
+15
+w_conn_mc
+smc_1,5-15-gf-3,81
+PCB socket 8A 160V 15 pins 45°, screw fix, Phoenix SMC 1,5/15-GF-3,81 1827554
+
+0
+15
+15
+w_conn_mc
+smc_1,5-16-g-3,81
+PCB socket 8A 160V 16 pins 45°, Phoenix SMC 1,5/16-G-3,81 1827415
+
+0
+16
+16
+w_conn_mc
+smc_1,5-16-gf-3,81
+PCB socket 8A 160V 16 pins 45°, screw fix, Phoenix SMC 1,5/16-GF-3,81 1827567
+
+0
+16
+16

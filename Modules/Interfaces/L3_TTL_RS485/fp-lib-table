@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "w_conn_mc")(type "KiCad")(uri "C:/Users/Alexey/Downloads/mod_conn_mc/w_conn_mc.pretty")(options "")(descr ""))
+)
