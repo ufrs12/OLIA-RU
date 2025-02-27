@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "81662ecb-5aca-469f-be6d-f33d104b4ae6")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 176.53 82.55)
+		(size 41.91 31.75)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5e246d5c-ed2b-4101-8a2c-2a720bf6beed")
+		(property "Sheetname" "TC"
+			(at 176.53 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../Thermocouple/Thermocouple.kicad_sch"
+			(at 176.53 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TC_PT1000"
+				(path "/81662ecb-5aca-469f-be6d-f33d104b4ae6"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 116.84 31.75)
+		(size 30.48 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aab5569b-f686-4de9-a754-a6ba3ac3db23")
+		(property "Sheetname" "PT1000"
+			(at 116.84 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../pt1000/pt1000.kicad_sch"
+			(at 116.84 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TC_PT1000"
+				(path "/81662ecb-5aca-469f-be6d-f33d104b4ae6"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
